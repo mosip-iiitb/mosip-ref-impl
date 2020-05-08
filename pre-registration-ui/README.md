@@ -6,7 +6,7 @@ To start off we will be needing a system (or VM) of at least 1 core processor an
 First we need to clone mosip-ref-impl repository to our system
 
 ```
-$ git clone [https://github.com/mosip-iiitb/mosip-ref-impl.git](https://github.com/mosip-iiitb/mosip-ref-impl.git)
+$ git clone https://github.com/mosip-iiitb/mosip-ref-impl.git
 ```
 ## step 2: building docker image
 Navigate to mosip-ref-imp/pre-registration-ui and build Docker Image from following command.
