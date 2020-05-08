@@ -39,7 +39,7 @@ follow following steps to run pre reg UI on your docker IP. (for linux based sys
 ```
 $ ifconfig
 ```
-note the docker IP address and open *http://<docker-ip>:8008* you will see pre registration up and running.
+note the docker IP address and open browser and enter *docker-ip:8008* you will see pre registration up and running.
 
 
 
