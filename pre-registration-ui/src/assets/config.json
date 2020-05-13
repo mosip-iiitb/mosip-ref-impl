@@ -1,5 +1,5 @@
 {
-  #alternate BASE_URL "https://dev.mosip.io/"
+  "_comment":"alternate BASE_URL https://dev.mosip.io/",
   "BASE_URL": "https://dev.mosip.io/",
   "PRE_REG_URL": "preregistration/v1/"
 }
